@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+.img1 {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.contrast {
+    filter: contrast(50%);
+}
+
+.Story {
+    z-index: 1;
+    position: absolute;
+    justify-content: center;
+    margin-top: 150px;
+    font-weight: bold;
+    /* margin-left: 20px; */
+}
+
+.contrast1 {
+    filter: contrast(150%);
+}
+
+.Story1 {
+    z-index: 1;
+    position: absolute;
+    justify-content: center;
+    font-size: 21px;
+    margin-top: -250px;
+    margin-left: -10px;
+    margin-left: 10px;
+
+}
+
+.Team {
+    font-weight: bold;
+}
+
+.img2 {
+    width: 450px;
+    height: 500px;
+    object-fit: contain;
+    cursor: pointer;
+}
+.name{
+    margin-top: -25px;
+    text-shadow: 1px 1px chocolate;
+}
+
+.Rajasthani1 {
+    margin-top: 150px;
+}
+
+.img3 {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.Newsletter {
+    margin-top: 170px;
+}

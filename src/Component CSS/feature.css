@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  .Learning{
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .experience{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+  }
+  .Phasellus{
+    margin-left: 70px;
+    font-size: 21px;
+    color: gray;
+  }
+  ul{
+    margin-left: 120px;
+    font-size: 21px;
+    color: gray;
+  }
+  .Phasellus1{
+    margin-left: 70px;
+    /* font-size: 21px; */
+  }
+  .SUBMIT{
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+  .Donec{
+    display: flex;
+    justify-content: space-around;
+  }
+  .pharetra{
+    font-size: 17px;
+    color: gray;
+  }
+  .David{
+    font-weight: bold;
+
+  }
+  .RelatedNews{
+    margin-top: 150px;
+    font-size: 55px;
+  }

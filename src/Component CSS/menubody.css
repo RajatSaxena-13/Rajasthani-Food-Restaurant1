@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+.BreakfastMenu{
+    font-size: 45px;
+    font-weight: bold;
+}
+.Breakfast{
+    /* margin-top: -850px; */
+}
+/* .img-menu{
+    width: 450px;
+    height: 500px;
+    object-fit: contain;
+}
+.img-menu1{
+    width: 700px;
+    object-fit: contain;
+} */
+.review1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -100px;
+    margin-top: -10px;
+    color: gray;
+}
+.img-cover{
+    width: 420px;
+    object-fit: contain;
+}
+.review{
+    font-weight: bold;
+}
+.review2{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -100px;
+    margin-top: -10px;
+    color: gray;
+}
+.div4{
+    /* width: 1400px; */
+    height: 10px;
+    background-color: aqua;
+    /* transition-duration:  0.5s ;
+    cursor: pointer; */
+    position: relative;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 10px;
+}
+@keyframes example {
+    0%   {background-color:red; left:0px; right:1230px;}
+    25%  {background-color:yellow; left:1230px; top:0px;}
+    50%  {background-color:blue; right:1230px; top:0px;}
+    75%  {background-color:green; left:0px; top:0px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+/* .div4:hover{
+  width: 1230px;
+} */
+/* .rating{
+    transition: all 1s ;
+}
+.rating:hover{
+    width: 200px;
+} */

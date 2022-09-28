@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* video {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+} */
+
+
+.rate3 {
+  display: flex;
+  margin-top: -80px;
+}
+
+.firstsection {
+  margin-top: 50px;
+}
+
+.rating {
+  margin-top: 5px;
+}
+
+.rating span {
+  margin: 1px;
+
+}
+
+.div {
+  height: 40px;
+  width: 140px;
+  background-color: #1DA1F2;
+  transition: width 1s;
+  cursor: pointer;
+}
+
+.div:hover {
+  width: 400px;
+}
+
+.OrderNow {
+  margin-left: 300px;
+}
+
+.From {
+  font-size: 22px;
+}
+
+.Delicious {
+  margin-top: 20%;
+}
+
+/* .keyframe{
+  position: relative;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {top: 0px;}
+  to {top: 150px;}
+} */
+
+
+
+.Delicious1 {
+  margin-top: 30%;
+  font-weight: bold;
+}
+
+.img {
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+ 
+}
+.Special {
+  margin-top: 150px;
+  font-weight: bold;
+  text-shadow: 0.5px 3px black;
+}
+
+.Breakfast {
+  /* margin-top: -210%;
+  margin-left: 58%; */
+  font-size: 17px;
+}
+
+.rate {
+  display: flex;
+  margin-top: -10px;
+}
+
+.checked {
+  color: orange;
+}
+
+.review {
+  font-size: 21px;
+  margin-left: -25%;
+  color: gray;
+}
+
+.Feature {
+  min-height: 20px;
+  margin-top: -90px;
+}
+
+.div1 {
+  height: 40px;
+  width: 100px;
+  /* background-color: #1DA1F2; */
+  background-color: #d2691e;
+  transition: width 1s;
+  cursor: pointer;
+}
+
+.div1:hover {
+  width: 220px;
+}
+
+/* .Featured{
+  margin-top: -27%;
+ }
+ .Featured1{
+  position: relative;
+  bottom: 20px;
+ } */
+/* @media (min-width: 0px) and (max-width: 150px){
+  .Featured1{
+   position: relative;
+   bottom: 2px;
+  }
+ }
+ @media (min-width: 150px) and (max-width: 250px){
+  .Featured1{
+    position: relative;
+   bottom: 2px;
+  }
+ }
+ @media (min-width: 250px) and (max-width: 350px){
+  .Featured1{
+    position: relative;
+    bottom: 2px;
+  }
+ }
+ @media (min-width: 350px) and (max-width: 450px){
+  .Featured1{
+    position: relative;
+   bottom: 2px;
+  }
+ }
+ @media (min-width: 450px) and (max-width: 550px){
+  .Featured1{
+    position: relative;
+    bottom: 2px;
+  }
+ } */
+
+.April {
+  font-weight: bold;
+}
+
+h4 a:hover {
+  color: brown;
+}
+
+.Rajasthani {
+  margin-top: 150px;
+}
+
+.font {
+  font-size: 25px;
+}
+
+.facebook {
+  color: blue;
+}
+
+.instagram {
+  color: #fb3958;
+}
+
+.twitter {
+  color: #1DA1F2;
+}
+
+.youtube {
+  color: red;
+}
